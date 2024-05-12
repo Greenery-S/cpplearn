@@ -33,4 +33,9 @@ function runcpps(){
 ## content
 - [x] chapter 0 Introduction 12/12
 - [x] chapter 1 basics 12/12
-- [ ] chapter 2 Basics: Functions and Files 0/14
+- [x] chapter 2 Basics: Functions and Files 14/14
+- [x] chapter 3 Debugging
+- [x] chapter 4 Fundamental Data Types
+- [ ] chapter 5 Constants and Strings
+
+

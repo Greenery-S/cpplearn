@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bytedance/Desktop/Projects/cpplearn/src/debugging/quiz3/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z1dv, symObjAddr: 0x0, symBinAddr: 0x100003F40, symSize: 0x4 }
+  - { offsetInCU: 0x2E3F, offset: 0x2E3F, size: 0x8, addend: 0x0, symName: __Z1dv, symObjAddr: 0x0, symBinAddr: 0x100003F40, symSize: 0x4 }
+  - { offsetInCU: 0x2E58, offset: 0x2E58, size: 0x8, addend: 0x0, symName: __Z1cv, symObjAddr: 0x4, symBinAddr: 0x100003F44, symSize: 0x4 }
+  - { offsetInCU: 0x2E71, offset: 0x2E71, size: 0x8, addend: 0x0, symName: __Z1bv, symObjAddr: 0x8, symBinAddr: 0x100003F48, symSize: 0x18 }
+  - { offsetInCU: 0x2E8A, offset: 0x2E8A, size: 0x8, addend: 0x0, symName: __Z1av, symObjAddr: 0x20, symBinAddr: 0x100003F60, symSize: 0x14 }
+  - { offsetInCU: 0x2EA3, offset: 0x2EA3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x34, symBinAddr: 0x100003F74, symSize: 0x2C }
+...

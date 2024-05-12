@@ -2,10 +2,10 @@
 
 using namespace std; // makes std::cout accessible as "cout"
 
-int cout() // defines our own "cout" function in the global namespace
-{
-    return 5;
-}
+// int cout() // defines our own "cout" function in the global namespace
+// {
+//     return 5;
+// }
 
 int main()
 {
