@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "files.insertFinalNewline": true,
+    "cmake.cmakePath": "/Applications/CMake.app/Contents/bin/cmake"
+}
